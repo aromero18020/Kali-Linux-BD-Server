@@ -15,14 +15,16 @@ This is a server script designed to be run on a Kali Linux machine. It listens f
 4. Execute the backdoor client on the target machine and establish a connection with the server.
 5. Once the connection is established, you can interact with the target machine through the server's shell. 
 
-## Commands:
+## Commands
+
 The following commands can be used in the server's shell:
 
-quit: Terminate the connection with the target machine and exit the server.
-clear: Clear the console screen.
-cd <directory>: Change the current working directory on the target machine.
-download <file_name>: Download a file from the target machine to the server.
-upload <file_name>: Upload a file from the server to the target machine.
+- `quit`: Terminate the connection with the target machine and exit the server.
+- `clear`: Clear the console screen.
+- `cd <directory>`: Change the current working directory on the target machine.
+- `download <file_name>`: Download a file from the target machine to the server.
+- `upload <file_name>`: Upload a file from the server to the target machine.
+
 
 ## Disclaimer:
   This script is intended for educational and testing purposes only. Unauthorized use of this script to gain unauthorized access to computer systems is illegal and prohibited. The author is not responsible for any illegal actions performed with this script.
