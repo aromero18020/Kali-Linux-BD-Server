@@ -5,6 +5,7 @@ This is a server script designed to be run on a Kali Linux machine. It listens f
 ## Prerequisites
 
 - Kali Linux machine with Python installed
+- Target Machine with a backdoor exe placed.
 
 ## Usage
 
